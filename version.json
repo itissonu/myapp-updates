@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "updateUrl": "https://example.com/myapp.apk",
-  "message": "Initial release"
+ "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://itissonu.github.io/myapp-updates/SmartKhataADS.apk",
+  "changeLog": "Initial release"
 }
